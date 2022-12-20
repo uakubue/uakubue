@@ -18,7 +18,7 @@
 
 ##### FRAMWORKS & LIBRARIES
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/materialui-%23563D7C.svg?style=for-the-badge&logo=materialui&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/materialui-%23563D7C.svg?style=for-the-badge&logo=materialui&logoColor=black)
 
 
 
