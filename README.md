@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Hi 👋 I am Austin Akubue
+# Hi 👋 I am Uchenna Akubue
 
 
 ##### LETS CONNECT
