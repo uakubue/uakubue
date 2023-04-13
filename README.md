@@ -14,6 +14,7 @@
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 
 
 ##### FRAMWORKS & LIBRARIES
