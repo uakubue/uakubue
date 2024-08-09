@@ -4,7 +4,7 @@
 # Hi 👋 I am Uchenna Akubue
 
 
-##### LETS CONNECT
+##### LET'S CONNECT
   <a href="https://www.linkedin.com/in/austin-akubue-490921120">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="#">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
